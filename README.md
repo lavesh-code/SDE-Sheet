@@ -316,9 +316,6 @@
 19. [Flattening of a Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 20. [Find the Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 ---
-Here's the organized list of LeetCode problems categorized by topic, with duplicate problems removed and links provided:
-
----
 
 ### Graph Problems
 1. [Clone Graph - LeetCode](https://leetcode.com/problems/clone-graph/description/?envType=study-plan-v2&envId=top-interview-150)
