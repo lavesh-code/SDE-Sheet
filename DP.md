@@ -9,8 +9,7 @@
 6. K Frog Jump : https://www.geeksforgeeks.org/problems/minimal-cost/1
 7. Maximum sum of non-adjacent elements / House Robber:  https://leetcode.com/problems/house-robber/
 8. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-9. 
-
+9. House Robber III - https://leetcode.com/problems/house-robber-iii/  (Tree + DP but similar take not take logic)
 --- 
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 4. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  
