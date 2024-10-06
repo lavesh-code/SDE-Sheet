@@ -5,6 +5,10 @@
 3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 4. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)  
 --- 
+5. Frog Jump : https://www.geeksforgeeks.org/problems/geek-jump/0
+6. K Frog Jump : https://www.geeksforgeeks.org/problems/minimal-cost/1
+
+7. 
 2. [House Robber II](https://leetcode.com/problems/house-robber-ii/)  
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 4. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  
