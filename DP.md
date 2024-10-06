@@ -1,6 +1,10 @@
 # DP Questions
 
-1. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)  
+1. Fibonacci Number (DP1)
+2. Climbing Stairs (DP2)
+3. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+4. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)  
+--- 
 2. [House Robber II](https://leetcode.com/problems/house-robber-ii/)  
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 4. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  
@@ -14,7 +18,6 @@
 12. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
 13. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)  
 14. [Maximal Square](https://leetcode.com/problems/maximal-square/)  
-15. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)  
 16. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)  
 17. [Combination Sum](https://leetcode.com/problems/combination-sum/)  
 18. [Jump Game](https://leetcode.com/problems/jump-game/)  
