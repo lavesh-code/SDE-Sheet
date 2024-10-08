@@ -16,8 +16,8 @@
 12. Unique Paths 1: https://leetcode.com/problems/unique-paths/description/
 13. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 14.  [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-
-
+15. [Triangle](https://leetcode.com/problems/triangle/)  
+---
 
 3. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 4. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  
@@ -27,7 +27,6 @@
 8. [Interleaving String](https://leetcode.com/problems/interleaving-string/)  
 9. [Longest Increasing Path In a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  
 10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  
-11. [Triangle](https://leetcode.com/problems/triangle/)  
  
 14. [Maximal Square](https://leetcode.com/problems/maximal-square/)  
 17. [Combination Sum](https://leetcode.com/problems/combination-sum/)  
