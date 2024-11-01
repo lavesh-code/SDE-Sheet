@@ -294,29 +294,6 @@
 7. [Stock Span Problem](https://leetcode.com/problems/stock-span-problem/)
 8. [Find the Maximum of Minimums of Every Window Size](https://leetcode.com/problems/find-the-maximum-of-minimums-of-every-window-size/)
 
-### Linked List Problems
-1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-3. [Reorder List](https://leetcode.com/problems/reorder-list/)
-4. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-5. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-7. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-8. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-9. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-10. [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-11. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-12. [Rotate List](https://leetcode.com/problems/rotate-list/)
-13. [Partition List](https://leetcode.com/problems/partition-list/)
-14. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
-15. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-16. [Detect a Cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
-17. [Find the Intersection Point of Y Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-18. [Check if a Linked List is Palindrome](https://leetcode.com/problems/palindrome-linked-list/)
-19. [Flattening of a Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
-20. [Find the Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
----
-
 ### Graph Problems
 1. [Clone Graph - LeetCode](https://leetcode.com/problems/clone-graph/description/?envType=study-plan-v2&envId=top-interview-150)
 2. [Number of Islands (Grid and Graph) - TakeUForward](https://takeuforward.org/data-structure/number-of-distinct-islands/)
