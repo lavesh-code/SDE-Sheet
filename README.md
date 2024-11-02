@@ -265,35 +265,6 @@
 8. **[Power Set](https://leetcode.com/problems/subsets/)**
 9. **[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)**
 
----
-
-### Stack Problems
-1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-2. [Min Stack](https://leetcode.com/problems/min-stack/)
-3. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-4. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-5. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-6. [Simplify Path](https://leetcode.com/problems/simplify-path/)
-7. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
-8. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
-9. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-10. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-11. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
-12. [Sort a Stack](https://leetcode.com/problems/sort-a-stack/)
-13. [Implement Stack using Arrays](https://leetcode.com/problems/implement-stack-using-arrays/)
-14. [Implement Stack using Queue (using single queue)](https://leetcode.com/problems/implement-stack-using-queues/)
-15. [Check for Balanced Parentheses](https://leetcode.com/problems/valid-parentheses/)
-
-### Queue Problems
-1. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
-2. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
-3. [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
-4. [LRU Cache](https://leetcode.com/problems/lru-cache/)
-5. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
-6. [Rotten Oranges (Using BFS)](https://leetcode.com/problems/rotting-oranges/)
-7. [Stock Span Problem](https://leetcode.com/problems/stock-span-problem/)
-8. [Find the Maximum of Minimums of Every Window Size](https://leetcode.com/problems/find-the-maximum-of-minimums-of-every-window-size/)
-
 ### Graph Problems
 1. [Clone Graph - LeetCode](https://leetcode.com/problems/clone-graph/description/?envType=study-plan-v2&envId=top-interview-150)
 2. [Number of Islands (Grid and Graph) - TakeUForward](https://takeuforward.org/data-structure/number-of-distinct-islands/)
