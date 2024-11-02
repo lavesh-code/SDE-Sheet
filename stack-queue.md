@@ -1,7 +1,7 @@
 ### Stack Problems
 1. [Valid/Balanced Parentheses](https://leetcode.com/problems/valid-parentheses/)
 3. [Min Stack](https://leetcode.com/problems/min-stack/)
-4. [Sort a Stack](https://leetcode.com/problems/sort-a-stack/)
+4. [Sort a Stack](https://www.naukri.com/code360/problems/sort-a-stack_985275)
 5. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 6. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 7. [Simplify Path](https://leetcode.com/problems/simplify-path/)
