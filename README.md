@@ -73,6 +73,7 @@
 19. [Check Palindrome](https://leetcode.com/problems/valid-palindrome/)
 20. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 21. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+22. https://leetcode.com/problems/generate-parentheses/description/ 
 ---
 ### **Two Pointers**
 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy)
